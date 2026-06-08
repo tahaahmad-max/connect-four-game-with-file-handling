@@ -1,0 +1,3 @@
+Rana won as O player : in turns = 4
+taha won as X player : in turns = 4
+Leena won as O player : in turns = 11
