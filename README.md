@@ -20,8 +20,6 @@ A console-based Connect Four game developed in C++ as a Programming Fundamentals
 
 Taha Ahmad
 
-<img width="528" height="653" alt="image" src="https://github.com/user-attachments/assets/3b3963ec-9bfe-4241-885a-abf099084a67" />
-<img width="620" height="667" alt="image" src="https://github.com/user-attachments/assets/8f6b0429-554b-4dff-b8e1-16f2d4299bd4" />
-<img width="737" height="600" alt="image" src="https://github.com/user-attachments/assets/352b2c65-34ed-4ca7-b659-707cf8bdc6da" />
-<img width="420" height="682" alt="image" src="https://github.com/user-attachments/assets/fdfe3081-1418-4c3e-b2cc-c81106769ca5" />
-<img width="443" height="697" alt="image" src="https://github.com/user-attachments/assets/8a228c7a-4e6e-434d-ba53-2c7bec115d95" />
+<img width="412" height="1001" alt="image" src="https://github.com/user-attachments/assets/b8498c66-21e8-4cda-adf9-5269a2125c06" />
+<img width="445" height="1007" alt="image" src="https://github.com/user-attachments/assets/ddc69d8a-7a0b-41ea-9441-83a041f775bb" />
+<img width="1623" height="1078" alt="image" src="https://github.com/user-attachments/assets/0c5e9b2c-5bab-4687-a748-b379ef13130d" />
