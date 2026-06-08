@@ -8,7 +8,7 @@ A console-based Connect Four game developed in C++ as a Programming Fundamentals
 - Random toss system
 - Horizontal, vertical, and diagonal win detection
 - Match record storage using file handling
-- Interactive menu system
+- Interactive menu system using Colours
 
 ## Technologies Used
 
